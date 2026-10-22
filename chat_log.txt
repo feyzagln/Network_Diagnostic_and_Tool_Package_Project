@@ -1,0 +1,145 @@
+[2026-10-21 22:11:42] Siz: hello
+[2026-10-21 22:11:42] Client: hello
+[2026-10-21 22:11:46] Siz: hi
+[2026-10-21 22:11:46] Server: hi
+[2026-10-21 22:11:52] Siz: whatsapp
+[2026-10-21 22:11:52] Client: whatsapp
+[2026-10-21 22:11:57] Siz: good
+[2026-10-21 22:11:57] Server: good
+[2026-10-21 22:12:02] Siz: you?
+[2026-10-21 22:12:02] Server: you?
+[2026-10-21 22:12:24] Siz: meh
+[2026-10-21 22:12:24] Client: meh
+[2026-10-21 22:12:36] Siz: dont worry i will be ok
+[2026-10-21 22:12:36] Client: dont worry i will be ok
+[2026-10-21 22:12:43] Siz: la wht happend
+[2026-10-21 22:12:43] Server: la wht happend
+[2026-10-21 22:42:30] Siz: ben bilmem unutmayı ben bilmem
+[2026-10-21 22:42:30] Client: ben bilmem unutmayı ben bilmem
+[2026-10-21 22:42:50] Siz: yüreğime ağırlığınla sana esir canımla
+[2026-10-21 22:42:50] Server: yüreğime ağırlığınla sana esir canımla
+[2026-10-21 22:42:56] Siz: bu yollardan geçemem
+[2026-10-21 22:42:56] Client: bu yollardan geçemem
+[2026-10-21 22:43:01] Siz: exit
+[2026-10-21 22:43:01] Client: exit
+[2026-10-21 22:43:07] Siz: exit
+[2026-10-21 22:43:07] Server: exit
+[2026-10-21 23:09:56] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-21 23:10:02] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-21 23:10:02] Sistem: ✅ Bağlantı başarılı!
+[2026-10-21 23:10:02] Sistem: ✅ ('127.0.0.1', 49238) bağlandı!
+[2026-10-21 23:10:12] Siz: Merhaba
+[2026-10-21 23:10:12] Server: Merhaba
+[2026-10-21 23:10:23] Siz: Clientim benn
+[2026-10-21 23:10:23] Server: Clientim benn
+[2026-10-21 23:10:49] Siz: Anlamadım neden iki kere gidiyor?
+[2026-10-21 23:10:49] Server: Anlamadım neden iki kere gidiyor?
+[2026-10-21 23:10:58] Sistem: Zaten aktif bir bağlantınız var.
+[2026-10-21 23:11:07] Sistem: Zaten aktif bir bağlantınız var.
+[2026-10-21 23:11:13] Siz: exit
+[2026-10-21 23:11:13] Server: exit
+[2026-10-21 23:28:53] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-21 23:28:56] Sistem: Zaten aktif bir bağlantınız veya süren bir işleminiz var.
+[2026-10-21 23:29:02] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-21 23:29:07] Sistem: Zaten aktif bir bağlantınız veya süren bir işleminiz var.
+[2026-10-21 23:29:10] Sistem: Zaten aktif bir bağlantınız veya süren bir işleminiz var.
+[2026-10-21 23:29:12] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-21 23:29:15] Sistem: Zaten aktif bir bağlantınız yok.
+[2026-10-21 23:29:18] Sistem: Zaten aktif bir bağlantınız yok.
+[2026-10-21 23:29:21] Sistem: Zaten aktif bir bağlantınız yok.
+[2026-10-21 23:29:44] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-21 23:29:44] Sistem: ✅ Bağlantı başarılı!
+[2026-10-21 23:29:44] Sistem: ✅ ('127.0.0.1', 36106) bağlandı!
+[2026-10-21 23:29:49] Siz: merhaba
+[2026-10-21 23:29:49] Server: merhaba
+[2026-10-21 23:29:55] Siz: selam
+[2026-10-21 23:29:55] Client: selam
+[2026-10-21 23:30:11] Siz: nası haberleştik ama
+[2026-10-21 23:30:11] Server: nası haberleştik ama
+[2026-10-21 23:30:15] Siz: fenasallll
+[2026-10-21 23:30:15] Client: fenasallll
+[2026-10-21 23:31:37] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-21 23:31:41] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-21 23:31:46] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-21 23:31:46] Sistem: ✅ ('127.0.0.1', 35012) bağlandı!
+[2026-10-21 23:31:46] Sistem: ✅ Bağlantı başarılı!
+[2026-10-21 23:31:51] Siz: abo
+[2026-10-21 23:31:51] Server: abo
+[2026-10-21 23:31:58] Siz: abooooo
+[2026-10-21 23:31:58] Client: abooooo
+[2026-10-21 23:32:02] Sistem: Karşı taraf bağlantıyı kesti.
+[2026-10-22 21:34:34] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-22 21:34:37] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-22 21:34:37] Sistem: ✅ ('127.0.0.1', 49178) bağlandı!
+[2026-10-22 21:34:37] Sistem: ✅ Bağlantı başarılı!
+[2026-10-22 21:34:51] Siz: Bağlantı başarılı diyor biri var mı orada?
+[2026-10-22 21:34:51] Server: Bağlantı başarılı diyor biri var mı orada?
+[2026-10-22 21:35:02] Siz: Mesajını aldım ben varım
+[2026-10-22 21:35:02] Client: Mesajını aldım ben varım
+[2026-10-22 21:35:07] Siz: Sen kimsin?
+[2026-10-22 21:35:07] Server: Sen kimsin?
+[2026-10-22 21:35:13] Siz: Ben benim sen kimsin
+[2026-10-22 21:35:13] Client: Ben benim sen kimsin
+[2026-10-22 21:35:30] Siz: Boş yapma çay koy
+[2026-10-22 21:35:30] Server: Boş yapma çay koy
+[2026-10-22 21:35:42] Siz: Başka bir emmrin?
+[2026-10-22 21:35:42] Client: Başka bir emmrin?
+[2026-10-22 21:36:13] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-22 21:36:19] Siz: Orda mısın
+[2026-10-22 21:36:19] Server: Orda mısın
+[2026-10-22 21:36:19] Sistem: Karşı taraf bağlantıyı kesti.
+[2026-10-22 21:36:25] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:30] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-22 21:36:30] Sistem: ✅ Bağlantı başarılı!
+[2026-10-22 21:36:31] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:31] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:35] Siz: allo
+[2026-10-22 21:36:38] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:38] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:38] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:38] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:39] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-22 21:36:41] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:36:43] Sistem: Zaten aktif bir bağlantınız veya süren bir işleminiz var.
+[2026-10-22 21:36:45] Sistem: Zaten aktif bir bağlantınız veya süren bir işleminiz var.
+[2026-10-22 21:36:51] Sistem: Önce Start/Connect ile bağlantı kurmalısınız!
+[2026-10-22 21:43:34] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-22 21:43:34] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-22 21:43:34] Sistem: ✅ ('127.0.0.1', 55550) bağlandı!
+[2026-10-22 21:43:34] Sistem: ✅ Bağlantı başarılı!
+[2026-10-22 22:05:54] Sistem: Karşı taraf bağlantıyı kesti.
+[2026-10-22 22:07:58] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-22 22:08:02] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-22 22:08:03] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-22 22:08:03] Hata: [Errno 98] Address already in use
+[2026-10-23 00:39:05] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-23 00:39:11] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-23 00:39:11] Sistem: ✅ Bağlantı başarılı!
+[2026-10-23 00:39:11] Sistem: ✅ ('127.0.0.1', 43998) bağlandı!
+[2026-10-23 00:39:36] Siz: Aynı bilgisayardan denediğim için log dosyasında iki aynı çıktıyı görüyorum
+[2026-10-23 00:39:36] Server: Aynı bilgisayardan denediğim için log dosyasında iki aynı çıktıyı görüyorum
+[2026-10-23 00:40:00] Siz: Biri sunucudan diğeri clientten geliyor log dosyasına
+[2026-10-23 00:40:00] Server: Biri sunucudan diğeri clientten geliyor log dosyasına
+[2026-10-23 00:40:40] Siz: Bu bir sıkıntı olmamalı doğru çalıştığını gösterir bence
+[2026-10-23 00:40:40] Client: Bu bir sıkıntı olmamalı doğru çalıştığını gösterir bence
+[2026-10-23 00:41:29] Sistem: Zaten aktif bir bağlantınız yok.
+[2026-10-23 00:41:30] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-23 00:44:50] Sistem: Karşı taraf bağlantıyı kesti.
+[2026-10-23 00:49:00] Sistem: Sunucu 127.0.0.1:65432 üzerinde dinliyor... Bağlantı bekleniyor.
+[2026-10-23 00:49:06] Sistem: Sunucuya (127.0.0.1:65432) bağlanılıyor...
+[2026-10-23 00:49:06] Sistem: ✅ Bağlantı başarılı!
+[2026-10-23 00:49:06] Sistem: ✅ ('127.0.0.1', 50226) bağlandı!
+[2026-10-23 00:49:21] Siz: Merhaba
+[2026-10-23 00:49:21] Server: Merhaba
+[2026-10-23 00:49:31] Siz: Sana da Merhaba
+[2026-10-23 00:49:31] Client: Sana da Merhaba
+[2026-10-23 00:49:40] Siz: Nasılsın
+[2026-10-23 00:49:40] Server: Nasılsın
+[2026-10-23 00:49:53] Siz: İyiyim sen nasılsın
+[2026-10-23 00:49:53] Client: İyiyim sen nasılsın
+[2026-10-23 00:50:11] Siz: Ben de iyiyim teşekkür ederim
+[2026-10-23 00:50:11] Server: Ben de iyiyim teşekkür ederim
+[2026-10-23 00:50:18] Sistem: Bağlantı sizin tarafınızdan sonlandırıldı.
+[2026-10-23 00:50:28] Siz: Bağlantı gitti?
+[2026-10-23 00:50:28] Server: Bağlantı gitti?
+[2026-10-23 00:50:28] Sistem: Karşı taraf bağlantıyı kesti.
